@@ -1,0 +1,27 @@
+/* logo */
+#logo {
+    background-color: lightgrey;
+    border: 2px solid black;
+    height: 150px;
+
+}
+#logo img {
+    width: 200x;
+    height: 150px;
+    position:relative;
+    transition: all 0.5s
+ease;
+   }
+    #logo img:hover{
+        background:
+        rgba(0,0,0,0.5);
+        opacity: 0.7;
+    }
+
+#logo h2 {
+    margin-left: 225px;
+    margin-top: -90px;
+    
+}
+
+/* logo */

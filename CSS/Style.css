@@ -1,0 +1,80 @@
+/* logo */
+#logo {
+    background-color: lightgrey;
+    border: 2px solid black;
+    height: 150px;
+
+}
+#logo img {
+    width: 200x;
+    height: 150px;
+    position:relative;
+    transition: all 0.5s
+ease;
+   }
+    #logo img:hover{
+        background:
+        rgba(0,0,0,0.5);
+        opacity: 0.7;
+    }
+
+#logo h2 {
+    margin-left: 225px;
+    margin-top: -90px;
+    
+}
+
+/* logo */
+
+/* Flags */
+
+#Menubar {
+    position:relative;
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+}
+
+#NA img {
+
+    width: 600px;
+    height: 700px;
+    transition: all 0.5s
+    ease;
+
+}
+    #NA img:hover{
+        background:
+        rgba(0,0,0,0.5);
+        opacity: 0.7;
+    }
+    
+#Eu img {
+ 
+    width: 600px;
+    height: 700px;
+    transition: all 0.5s
+    ease;
+}
+     #Eu img:hover{
+         background:
+         rgba(0,0,0,0.5);
+         opacity: 0.7;
+     }
+
+#AS img {
+
+    width: 600px;
+    height: 700px;
+    transition: all 0.5s
+    ease;
+}
+    #AS img:hover{
+        background:
+        rgba(0,0,0,0.5);
+        opacity: 0.7;
+    }
+
+/* Flags */
