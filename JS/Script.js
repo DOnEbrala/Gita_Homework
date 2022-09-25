@@ -1,3 +1,8 @@
+
+
+
+
+
 $(document).ready(function(){
     $('.next').on('click' , function(){
         var currentImg =$('.active');
@@ -22,10 +27,5 @@ $(document).ready(function(){
 })
 
 // dont work
-$(document).ready(function(){
-    $(".more-btn").on('click', function(){
-        $(this).parent().parent().find(".more-text").toggleClass("active");
-    })
-})
 
 //dont work
